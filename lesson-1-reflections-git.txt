@@ -9,3 +9,4 @@ git log helps me to keep track of all the commits I have made and git diff is us
 git makes me much more confident of making changes because I can instantly revert if anything gets messed up! This reduces the effort of manually copying the files to make sure
 that any critical change we are doing now doesn't affect the project. This is much cooler!
 Now that I have learnt it, I wanna use it in an actual project.
+Hello!
