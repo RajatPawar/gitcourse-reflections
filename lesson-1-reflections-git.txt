@@ -1,0 +1,11 @@
+Lesson helped me learn how difficult it is to manually differentiate between two large projects.
+As a programmer, version control will help me improve efficiency because I will be spending less time
+solving minor bugs.
+Automatic saving brings in too many commits and too much cluttering. Manual saving requires good judgement and is the best way to use version control. Pros of automation are less chances of missing important
+changes but cons include too much memory wastage.
+Multi file commits are useful because usually programming projects are a collection of files rather than an individual node. If we make a logical change that requires modification in all the files in the project then
+saving the state of the entire project would be much more useful than just individualization.
+git log helps me to keep track of all the commits I have made and git diff is useful to get the difference between two commits, line by line.
+git makes me much more confident of making changes because I can instantly revert if anything gets messed up! This reduces the effort of manually copying the files to make sure
+that any critical change we are doing now doesn't affect the project. This is much cooler!
+Now that I have learnt it, I wanna use it in an actual project.

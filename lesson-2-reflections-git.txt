@@ -1,0 +1,3 @@
+I need a repo to keep a project together and files organized. When I initialize a repo, git will start tracking all the files in there.
+It makes it easier as a bundle.
+Staging area is an intermediate area between a repo & a working directory to help us maintain control over what we commit.
