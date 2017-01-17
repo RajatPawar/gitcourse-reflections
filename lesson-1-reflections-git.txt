@@ -1,4 +1,4 @@
-Lesson helped me learn how difficult it is to manually differentiate between two large projects.
+gfdgfLesson helped me learn how difficult it is to manually differentiate between two large projects.
 As a programmer, version control will help me improve efficiency because I will be spending less time
 solving minor bugs.
 Automatic saving brings in too many commits and too much cluttering. Manual saving requires good judgement and is the best way to use version control. Pros of automation are less chances of missing important
