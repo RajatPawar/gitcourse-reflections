@@ -1,3 +1,5 @@
 I need a repo to keep a project together and files organized. When I initialize a repo, git will start tracking all the files in there.
 It makes it easier as a bundle.
 Staging area is an intermediate area between a repo & a working directory to help us maintain control over what we commit.
+Branching would really be helpful if you want to create experimental features without messing up a working demo of the project.
+It is a great feature that allows me to have control over whatever I want to be production ready and what I want to be in deevelopment.
