@@ -3,3 +3,6 @@ It makes it easier as a bundle.
 Staging area is an intermediate area between a repo & a working directory to help us maintain control over what we commit.
 Branching would really be helpful if you want to create experimental features without messing up a working demo of the project.
 It is a great feature that allows me to have control over whatever I want to be production ready and what I want to be in deevelopment.
+Branching diagrams helped me visualize the flow of commits, and the way git uses a parent like structure (tree like) to get all the commits.
+Unreachable commits cant be reached otherwise and either need to be loaded with a checkout -b branchnamenew or they can be discarded.
+It can be good to just look around and do some shit and then throw it away!
