@@ -6,3 +6,8 @@ It is a great feature that allows me to have control over whatever I want to be 
 Branching diagrams helped me visualize the flow of commits, and the way git uses a parent like structure (tree like) to get all the commits.
 Unreachable commits cant be reached otherwise and either need to be loaded with a checkout -b branchnamenew or they can be discarded.
 It can be good to just look around and do some shit and then throw it away!
+We merge branches to add features that have been completed in their original branches. Once the purpose of a separate branch has run its
+course, we can simply delete it after merging it. All the commits are still retained though!
+It's good that git automatically merges when possible. However conflicts may arise obviously when two versions of the same code are present.
+In such cases, manual sorting of the conflict has to be done through careful study. It's good otherwise if git tried to be oversmart, it would
+lead to illegal code that probably wouldn't compile or run correctly.
