@@ -5,3 +5,5 @@ Branch is a different line of a project that wants to develop indivisually on on
 Clone is a simple copy of a repository, local or remote from GitHub or another computer.
 Fork is a copy of a remote repository from GitHub, onto GitHub that one might want to develop his or own features onto it. It's
 independant of the original author.
+The benefit of having origin/master on your local repository is if you are not connected, you still know the last known state of the
+remote and don't have to constantly pull data for various operations. 
