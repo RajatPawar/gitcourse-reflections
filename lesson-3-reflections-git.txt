@@ -1,3 +1,7 @@
 I would want to use a remote repository if there are multiple people working on the same thing or if I am using multiple devices to work
 on the same project. Therein lies the usefulness of GitHub - it's accessibility.
 Someone else may have updated something else on the website that you might not want to yet get in your local repo.
+Branch is a different line of a project that wants to develop indivisually on one aspect and can be merged back with it's main line.
+Clone is a simple copy of a repository, local or remote from GitHub or another computer.
+Fork is a copy of a remote repository from GitHub, onto GitHub that one might want to develop his or own features onto it. It's
+independant of the original author.
