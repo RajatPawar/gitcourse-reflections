@@ -10,3 +10,6 @@ remote and don't have to constantly pull data for various operations.
 Collaborating without Git would be a PITA. There would be no secure production ready code, reviewing would be difficult and
 redundancy would be too much. Too many versions would be created. Git is good, but it's a bit complex and has a bit of a
 learning curve. Otherwise, this is brilliant!
+Using separate branches helps us to keep a 'master' - production ready line. There is a lot of tinkering that is possible
+when we use a different branch without even having to worry about breaking the setup code that works. On the other hand,
+it increases complexity. But it's better.
