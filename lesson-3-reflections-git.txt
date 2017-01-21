@@ -6,4 +6,7 @@ Clone is a simple copy of a repository, local or remote from GitHub or another c
 Fork is a copy of a remote repository from GitHub, onto GitHub that one might want to develop his or own features onto it. It's
 independant of the original author.
 The benefit of having origin/master on your local repository is if you are not connected, you still know the last known state of the
-remote and don't have to constantly pull data for various operations. 
+remote and don't have to constantly pull data for various operations.
+Collaborating without Git would be a PITA. There would be no secure production ready code, reviewing would be difficult and
+redundancy would be too much. Too many versions would be created. Git is good, but it's a bit complex and has a bit of a
+learning curve. Otherwise, this is brilliant!
